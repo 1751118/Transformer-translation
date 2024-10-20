@@ -2,10 +2,12 @@ Attention is all you need. A simple translation task using transformer. Only fin
 ---
 
 ### Run
-~~~
+```
 pip install -r requirements.txt
+```
+
+```
 python train.py
-
+```
 ### Acknowledgements
-
 Many codes from https://github.com/wenjtop/transformer
